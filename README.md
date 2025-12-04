@@ -9,7 +9,7 @@ colab
 
 matplotlib
 # Program:
-```
+```python
 import math
 
 # Probabilities given
